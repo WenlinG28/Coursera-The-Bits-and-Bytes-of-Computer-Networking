@@ -1,2 +1,4 @@
 # Coursera-The-Bits-and-Bytes-of-Computer-Networking
-offered by Google. website: https://www.coursera.org/learn/computer-networking
+This course offered by Google. See website: https://www.coursera.org/learn/computer-networking
+
+This repository contains my course notes. 
